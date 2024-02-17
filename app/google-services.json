@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708183718087",
+    "project_id": "cgpa-tracker-360d3",
+    "storage_bucket": "cgpa-tracker-360d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708183718087:android:c60e96c30a0ded2e7e66e2",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZenvF-RmWZw3mHA4EM44KNL7jEzw7-U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

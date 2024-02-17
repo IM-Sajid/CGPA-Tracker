@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_up"> SignUP</string>
+    <string name="signup"> Sign Up</string>
+    <string name="dont_have_account">No Account ?</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_calculation_page">CalculationPage</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_main3">MainActivity3</string>
+</resources>
